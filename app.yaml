@@ -8,7 +8,7 @@ spec:
     namespace: default
     server: https://kubernetes.default.svc
   source:
-    repoURL: https://github.com/shailigupta290/terraform/tree/main
+    repoURL: https://github.com/shailigupta290/terraform
     targetRevision: HEAD
     path: .
   project: default
